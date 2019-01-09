@@ -1,3 +1,3 @@
 == Usage
-
+* This service adaptive for openphift
 * This service can be used to validate whether a JSON response Snippet complies with specification of jsonapi.org or not 
